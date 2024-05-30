@@ -54,7 +54,7 @@ ctrl + shift + p y escribir theme y seleccionar color theme preference o ctrl k 
 # Para abrir la terminal es 
 ctrl + shift + `
 
-# Para ordenar una lista de elementos <li>
+# Para ordenar una lista de elementos li
 seleccionar todos los elementos y luego ctrl + shift + p y luego buscar sort lines.
 
 # Para comentar muchas lineas de codigo 
